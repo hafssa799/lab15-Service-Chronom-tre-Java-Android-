@@ -50,7 +50,8 @@ La MainActivity.java utilise une ServiceConnection pour se lier au service. Cela
 
 ## Démonstration Vidéo
 
-https://github.com/user-attachments/assets/ba2cd92f-c229-4f6d-95b9-744578b9c06d
+https://github.com/user-attachments/assets/2df8a449-db64-4aea-a020-3567392ce6e9
+
 
 
 
