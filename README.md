@@ -1,4 +1,4 @@
-# lab15-Service-Chronom-tre-Java-Android-
+# Lab16 -Service-Chronom-tre-Java-Android-
 
 Ce projet est une application Android développée en Java démontrant l'implémentation d'un Foreground Service (Service au premier plan). L'application permet de lancer un chronomètre qui continue de fonctionner de manière indépendante, même si l'interface utilisateur est fermée ou si une autre application est ouverte.
 
